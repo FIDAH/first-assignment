@@ -60,6 +60,7 @@ body{
     background-size:cover;
     height:650px;
     background-position:bottom;
+    margin-top:100px;
 
 }
 
@@ -69,6 +70,9 @@ body{
     
 }
 
+.latest-work-samples{
+    margin-top:70px;
+}
 
 footer{
     background-image: url("images/footer-bg.png");
