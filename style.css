@@ -1,0 +1,96 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+
+.top-part{
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+    height:650px;
+    background-position:right;
+    }
+    .name-color {
+        color: #EC4C7A; 
+        
+}
+
+.my-link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC4F91,#ED4B73);
+    border-radius:1px;
+    color:white;
+    padding:10px 20px;
+    font-weight: 700;
+    margin-top:10px;
+    display:inline-block;
+}
+
+.half-section{
+    width:40%;  
+     float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+
+.half-section img{
+    width:100%; 
+    margin-left:;
+}
+
+
+
+
+.my-dream{
+    background-image: url("images/biography-bg.png");
+    background-size:cover;
+    height:700px;
+    background-position:left;  
+
+}
+
+
+
+#content-section1{ 
+    margin-top:100px;                   
+}  /*id for the right half of the "my-dream" section*/
+
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-size:cover;
+    height:650px;
+    background-position:bottom;
+
+}
+
+.latest-work img{
+    width:30%;
+    padding-left:2%;
+    
+}
+
+
+footer{
+    background-image: url("images/footer-bg.png");
+    background-size:cover;
+     height:750px;   
+    background-position:bottom;
+    text-align:center;
+    
+}
+
+.footer-box{
+    height:200px;
+    width:800px;
+    background-color:#ED4B71;
+    margin:0 auto;
+    color:white;
+}
+
+.footer-box a{
+    text-decoration: none;
+    display:inline-block;
+    padding:25px;
+   color:white;
+}
+
